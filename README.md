@@ -1,1 +1,1 @@
-# WeatheMap
+# WeatherMap
